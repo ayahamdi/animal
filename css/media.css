@@ -1,0 +1,379 @@
+@media (min-width: 1441px) and (max-width : 2560px){
+    .slide .slide-upper img {
+        max-width: 89%;
+    }
+    .slide .slide-upper {
+        position: absolute;
+        bottom: -94px;
+        right: 17%;
+    }
+    .owl-carousel .owl-stage {
+         width: 8960px!important;
+    }
+    
+    .owl-nav {
+        top: 37%;
+        left: 90%;
+    }
+}
+@media only screen and (min-width : 768px) and (max-width : 1024px) {
+    .slide .slide-upper {
+        right: 0%;
+    }
+    .next-nav ul {
+    margin-left: 0px;
+    }
+    .next-nav ul li{
+    padding-right: 18px;
+    font-size: 16px;
+    font-weight: 600;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+    .care_about >div{
+        padding-top: 154px;
+    }
+    .care_about >div:nth-child(2) >div span{
+        font-size: 45px;
+    font-weight: 300;
+    }
+    .care_about >div:nth-child(2) >div h1 {
+    font-weight: 700;
+    font-size: 49px;
+        margin-bottom: 32px;}
+    .contain_care{
+        margin-top: 0px;
+    }
+    .care_pet .left{
+        margin-bottom: 25px;
+    }
+    .blog{
+            margin-bottom: 28px;
+    }
+    .banner .letter input[type="email"] {
+    
+    width: 80%!important;
+}
+.banner .letter button{
+    
+    width: 80%!important;
+}
+    .supply .row > div{
+        margin-top: 15px;
+    }
+    .slide h1 {
+        font-size: 70px;
+    }
+    .header span{
+            font-size: 16px;
+    }
+    .navtog{
+    padding-bottom: 10px;
+    }
+    .our_team .row:nth-child(2) > div:last-child{
+        margin-left: 187px;
+    }
+    .contact > div h1 {
+    font-weight: 700;
+    font-size: 38px;
+        margin-bottom: 40px;
+    }
+    .contact > div h5 {
+        font-size: 24px;
+        line-height: 36px;
+        font-weight: 500;
+    }
+    .contact button {
+        padding: 15px 38px;
+    }
+     .drop_toggle ul li {
+    padding-right: 18px;
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+    .drop_toggle ul{
+        margin-left: 17px;
+    }
+    .service .row:last-child > div:last-child{
+        margin-left: 179px;
+    }
+    .care_about >div:nth-child(2) >div button {
+        padding: 15px 50px;
+        margin-top: 46px;
+        
+    }
+    .care_about >div:nth-child(2) >div p {
+        font-size: 18px;
+    }
+    .care_about >div:nth-child(2) >div span:last-of-type {
+        font-size: 33px;
+    }
+    .care_about >div:nth-child(2) >div h1 {
+        font-size: 32px;
+    }
+    .care_about >div {
+    padding-top: 108px;
+}
+    .care_about >div:nth-child(2) {
+    padding-left: 13px;
+}
+.need_yourhelp >div:nth-child(1) >div span:last-of-type {
+    font-size: 43px;
+    }
+    .need_yourhelp >div:nth-child(1) >div h1 {
+        font-size: 42px;
+        display: inline;
+}
+    .need_yourhelp >div:nth-child(1) >div button{
+        padding: 13px 45px;
+    }
+    .our_team .row:first-child >div h1 {
+    font-weight: 700;
+    font-size: 32px;
+}
+    .next-nav ul {
+        margin: auto;
+    }
+}
+
+
+@media only screen and (min-width : 481px) and (max-width : 767px) {
+        
+.next-nav ul li{
+    padding-right: 20px;
+    font-size: 16px;
+    font-weight: 600;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+    .care_about >div{
+        padding-top: 154px;
+    }
+    .care_about >div:nth-child(2) >div span{
+        font-size: 45px;
+    font-weight: 300;
+    }
+    .care_about >div:nth-child(2) >div h1 {
+    font-weight: 700;
+    font-size: 49px;
+        margin-bottom: 32px;}
+    .contain_care{
+        margin-top: 0px;
+        height: 1711px;
+    }
+
+    .owl-nav {
+    display: none!important;
+    }
+    .care_pet .left{
+        margin-bottom: 25px;
+    }
+    .blog{
+            margin-bottom: 28px;
+    }
+    .banner .letter input[type="email"] {
+    
+    width: 80%!important;
+}
+.banner .letter button{
+    
+    width: 80%!important;
+}
+    .supply .row > div{
+        margin-top: 15px;
+    }
+    .slide h1 {
+        font-size: 60px;
+    }
+    .header span{
+        font-size: 15px;
+    }
+    .contain_care .left
+    {
+    margin-right: 0px; 
+    margin-left: 0px;
+    }
+    .contain_care .right
+    {
+    margin-right: 0px; 
+    margin-left: 0px;
+    }
+    .needed .item >div {
+        padding: 21px 26px;
+    }
+    
+    .care_about >div:nth-child(2) >div {
+        padding-left: 0px;
+    }
+    .care_about >div:nth-child(2) {
+    padding-left: 34px;
+}
+    .navtog{
+    padding-bottom: 10px;
+    }
+    .drop_toggle ul li {
+    padding-right: 18px;
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+    .drop_toggle ul{
+        margin-left: 17px;
+    }
+    
+}
+@media only screen and (min-width : 320px) and (max-width : 480px) {
+    .next-nav ul li{
+    padding-right: 20px;
+    font-size: 16px;
+    font-weight: 600;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+    .care_about >div{
+        padding-top: 154px;
+    }
+    .care_about >div:nth-child(2) >div span{
+        font-size: 45px;
+    font-weight: 300;
+    }
+    .care_about >div:nth-child(2) >div h1 {
+    font-weight: 700;
+    font-size: 49px;
+        margin-bottom: 32px;}
+    .contain_care{
+        margin-top: 0px;
+        height: 1711px;
+    }
+
+    .owl-nav {
+    display: none!important
+    }
+    .care_pet .left{
+        margin-bottom: 25px;
+    }
+    .blog{
+            margin-bottom: 28px;
+    }
+    .banner .letter input[type="email"] {
+    
+    width: 80%!important;
+}
+.banner .letter button{
+    
+    width: 80%!important;
+}
+    .supply .row > div{
+        margin-top: 15px;
+    }
+    .slide h1 {
+        font-size: 50px;
+    }
+    .header span {
+        font-size: 13px;}
+     .contain_care .left
+    {
+    margin-right: 0px; 
+    margin-left: 0px;
+    }
+    .contain_care .right
+    {
+    margin-right: 0px; 
+    margin-left: 0px;
+    }
+    .owl-item {
+    }
+    .care_about >div:nth-child(2) >div {
+        padding-left: 0px;
+    }
+    .care_about >div:nth-child(2) {
+    padding-left: 24px;
+}
+    .needed .item >div {
+    padding: 20px 26px;
+    }
+    .navtog{
+    padding-bottom: 10px;
+    }
+    .drop_toggle ul{
+        margin-left: 2px;
+    }
+     .drop_toggle ul li {
+    padding-right: 18px;
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+   .header span:last-of-type {
+    margin-left: 3px;
+}
+    .header span {
+        font-size: 15px;
+    }
+    .header a {
+        font-size: 16px;
+        margin-left: 41px;
+    }
+    .slide h5 {
+    font-size: 34px;
+        font-weight: 100;
+    }
+    .slide h1 {
+    font-size: 38px;
+        font-weight: 900;
+    }
+    .service h2 {
+    font-weight: 700;
+        font-size: 38px;
+    }
+    .care_about >div:nth-child(2) >div span:last-of-type {
+        font-size: 37px;
+    }
+    .care_about >div:nth-child(2) >div h1 {
+    font-weight: 700;
+        font-size: 32px;
+    }
+    .care_about >div:nth-child(2) >div p {
+    color: #9A9292;
+    font-size: 18px;
+        margin-right: 15px;
+    }
+    .care_about >div:nth-child(2) >div button {
+        margin-top: 47px;
+        padding: 15px 43px
+    }
+    .need_yourhelp >div:nth-child(1) >div span:last-of-type {
+        font-size: 23px;
+    }
+    .need_yourhelp >div:nth-child(1) >div h1 {
+    font-weight: 600;
+    font-size: 26px;
+        display: inline;
+    }
+    .need_yourhelp >div:nth-child(1) >div p {
+        margin-right: 15px;
+    }
+    .our_team .row:first-child >div h1 {
+    font-weight: 700;
+        font-size: 28px;
+    }
+    .contact > div h1 {
+    font-weight: 800;
+    font-size: 24px;
+        margin-bottom: 33px;
+    }
+    .contact > div h5 {
+    font-size: 30px;
+    line-height: 35px;
+        font-weight: 400;
+    }
+    .contact button {
+        display: block;
+        margin-left: 25%;
+        margin-bottom: 20px;
+    }
+}

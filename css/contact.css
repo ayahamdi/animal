@@ -1,0 +1,61 @@
+.maps {
+    margin-top: 200px;
+      }
+.contact-form{
+      margin-top: 130px;
+}
+.container .get_touch  div > div{
+    margin-bottom: 20px;
+}
+.container .get_touch h2{
+        font-weight: 700;
+    font-size: 32px;
+   
+}
+.container .get_touch > div:first-child{
+    margin-bottom: 40px;
+}
+.container .get_touch label{
+    color: #A6A6A6;
+}
+.container .get_touch input[type="text"] , .container .get_touch textarea , .container .get_touch input[type="email"]{
+    width: 100%;
+    border:1px solid #ced4da;
+    padding: 8px;
+}
+.container .get_touch input[type="text"]:focus , .container .get_touch textarea:focus , .container .get_touch input[type="email"]:focus{
+    border: none;
+    border:  1px solid #510BC4!important;
+    outline: none;
+    
+}
+.container .get_touch button{
+    background-color: white;
+    border: 1px solid #FF3500;
+    transition: all 0.2s ease-in-out;
+    color: #FF3500;
+    padding: 18px 45px;
+    border-radius: 0px!important;
+}
+.container .get_touch button:hover{
+    background-color: #FF3500;
+     color: white; 
+}
+    
+.container .get_touch p{
+    color: #929598;
+    font-size: 18px;
+}
+.container .get_touch h3{
+    font-weight: 400;
+}
+.right span{
+    font-size: 26px;
+    
+}
+.right h6{
+    font-size: 14px;
+}
+.right .row > div p{
+    font-size: 16px;
+}
